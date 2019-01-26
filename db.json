@@ -1,14 +1,458 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"id": 1,
+"icon": "fa fa-user",
+"category": "Biznis industrija",
+"subCategory": [
+"mollit",
+"esse",
+"sunt",
+"exercitation",
+"in",
+"ipsum",
+"id",
+"laborum",
+"excepteur",
+"veniam",
+"amet",
+"aliquip"
+]
+},
+{
+"id": 2,
+"icon": "fa fa-user",
+"category": "Mobilni uredjaji",
+"subCategory": [
+"consectetur",
+"voluptate",
+"magna",
+"aliqua",
+"nisi",
+"labore",
+"nulla",
+"est",
+"qui",
+"do",
+"aliquip",
+"occaecat"
+]
+},
+{
+"id": 3,
+"icon": "fa fa-user",
+"category": "Muzicka oprema",
+"subCategory": [
+"dolore",
+"eiusmod",
+"laborum",
+"reprehenderit",
+"deserunt",
+"sint",
+"culpa",
+"deserunt",
+"veniam",
+"qui",
+"commodo",
+"aliqua"
+]
+},
+{
+"id": 4,
+"icon": "fa fa-user",
+"category": "Vozila",
+"subCategory": [
+"magna",
+"laborum",
+"ipsum",
+"quis",
+"consequat",
+"incididunt",
+"ut",
+"eiusmod",
+"aliquip",
+"aute",
+"nostrud",
+"duis"
+]
+},
+{
+"id": 5,
+"icon": "fa fa-user",
+"category": "Nakit i satovi",
+"subCategory": [
+"et",
+"reprehenderit",
+"reprehenderit",
+"sint",
+"irure",
+"do",
+"laboris",
+"duis",
+"tempor",
+"veniam",
+"duis",
+"in"
+]
+},
+{
+"id": 6,
+"icon": "fa fa-user",
+"category": "Bebe",
+"subCategory": [
+"incididunt",
+"enim",
+"commodo",
+"exercitation",
+"ipsum",
+"tempor",
+"quis",
+"sit",
+"cupidatat",
+"laborum",
+"labore",
+"fugiat"
+]
+},
+{
+"id": 7,
+"icon": "fa fa-user",
+"category": "Literatura",
+"subCategory": [
+"est",
+"enim",
+"adipisicing",
+"incididunt",
+"adipisicing",
+"laboris",
+"dolore",
+"labore",
+"aliqua",
+"veniam",
+"amet",
+"proident"
+]
+},
+{
+"id": 8,
+"icon": "fa fa-user",
+"category": "Karte",
+"subCategory": [
+"nostrud",
+"tempor",
+"laborum",
+"eu",
+"nisi",
+"velit",
+"consectetur",
+"amet",
+"cupidatat",
+"sunt",
+"esse",
+"cillum"
+]
+},
+{
+"id": 9,
+"icon": "fa fa-user",
+"category": "Biznis industrija",
+"subCategory": [
+"ullamco",
+"laborum",
+"tempor",
+"do",
+"minim",
+"pariatur",
+"aute",
+"ut",
+"anim",
+"cupidatat",
+"reprehenderit",
+"cillum"
+]
+},
+{
+"id": 10,
+"icon": "fa fa-user",
+"category": "Muzicka oprema",
+"subCategory": [
+"et",
+"aute",
+"aute",
+"incididunt",
+"occaecat",
+"esse",
+"exercitation",
+"amet",
+"esse",
+"irure",
+"ad",
+"do"
+]
+},
+{
+"id": 11,
+"icon": "fa fa-user",
+"category": "Poslovi",
+"subCategory": [
+"nisi",
+"duis",
+"reprehenderit",
+"ut",
+"aliquip",
+"elit",
+"excepteur",
+"anim",
+"elit",
+"consectetur",
+"culpa",
+"veniam"
+]
+},
+{
+"id": 12,
+"icon": "fa fa-user",
+"category": "Servisi i usluge",
+"subCategory": [
+"proident",
+"sint",
+"dolore",
+"laborum",
+"est",
+"aliqua",
+"proident",
+"officia",
+"id",
+"duis",
+"cillum",
+"officia"
+]
+},
+{
+"id": 13,
+"icon": "fa fa-user",
+"category": "Nakit i satovi",
+"subCategory": [
+"id",
+"aliquip",
+"ipsum",
+"Lorem",
+"qui",
+"sit",
+"dolore",
+"qui",
+"ea",
+"ex",
+"nulla",
+"exercitation"
+]
+},
+{
+"id": 14,
+"icon": "fa fa-user",
+"category": "Moj Dom",
+"subCategory": [
+"anim",
+"consectetur",
+"exercitation",
+"magna",
+"exercitation",
+"sint",
+"nulla",
+"anim",
+"deserunt",
+"commodo",
+"sit",
+"ea"
+]
+},
+{
+"id": 15,
+"icon": "fa fa-user",
+"category": "Djeca",
+"subCategory": [
+"non",
+"cillum",
+"proident",
+"consequat",
+"dolore",
+"et",
+"dolor",
+"fugiat",
+"labore",
+"id",
+"qui",
+"tempor"
+]
+},
+{
+"id": 16,
+"icon": "fa fa-user",
+"category": "Mobilni uredjaji",
+"subCategory": [
+"et",
+"dolor",
+"proident",
+"aliqua",
+"ipsum",
+"non",
+"excepteur",
+"ut",
+"laboris",
+"eu",
+"ad",
+"commodo"
+]
+},
+{
+"id": 17,
+"icon": "fa fa-user",
+"category": "Ljepota i zdravlje",
+"subCategory": [
+"tempor",
+"est",
+"sit",
+"reprehenderit",
+"incididunt",
+"aute",
+"nulla",
+"quis",
+"laborum",
+"consectetur",
+"amet",
+"incididunt"
+]
+},
+{
+"id": 18,
+"icon": "fa fa-user",
+"category": "Mobilni uredjaji",
+"subCategory": [
+"ea",
+"ad",
+"culpa",
+"Lorem",
+"laboris",
+"est",
+"ad",
+"culpa",
+"eiusmod",
+"excepteur",
+"occaecat",
+"sunt"
+]
+},
+{
+"id": 19,
+"icon": "fa fa-user",
+"category": "Muzicka oprema",
+"subCategory": [
+"commodo",
+"amet",
+"qui",
+"reprehenderit",
+"anim",
+"occaecat",
+"enim",
+"dolore",
+"nostrud",
+"sunt",
+"incididunt",
+"dolore"
+]
+},
+{
+"id": 20,
+"icon": "fa fa-user",
+"category": "Odjeca i obuca",
+"subCategory": [
+"sunt",
+"culpa",
+"amet",
+"velit",
+"fugiat",
+"pariatur",
+"exercitation",
+"aliqua",
+"excepteur",
+"velit",
+"id",
+"id"
+]
+},
+{
+"id": 21,
+"icon": "fa fa-user",
+"category": "Nekretnine",
+"subCategory": [
+"eiusmod",
+"eu",
+"labore",
+"consequat",
+"elit",
+"commodo",
+"in",
+"in",
+"labore",
+"est",
+"Lorem",
+"sunt"
+]
+},
+{
+"id": 22,
+"icon": "fa fa-user",
+"category": "Djeca",
+"subCategory": [
+"aliquip",
+"velit",
+"cupidatat",
+"duis",
+"sit",
+"est",
+"labore",
+"consectetur",
+"ullamco",
+"est",
+"elit",
+"culpa"
+]
+},
+{
+"id": 23,
+"icon": "fa fa-user",
+"category": "Djeca",
+"subCategory": [
+"cupidatat",
+"culpa",
+"duis",
+"eiusmod",
+"mollit",
+"elit",
+"elit",
+"eiusmod",
+"commodo",
+"sunt",
+"quis",
+"et"
+]
+},
+{
+"id": 24,
+"icon": "fa fa-user",
+"category": "Sportska oprema",
+"subCategory": [
+"ad",
+"consectetur",
+"consequat",
+"mollit",
+"nisi",
+"veniam",
+"Lorem",
+"minim",
+"ex",
+"deserunt",
+"eiusmod",
+"culpa"
+]
 }
+]
