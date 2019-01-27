@@ -1,5 +1,264 @@
 {
-  "categories": [
-    {"test": "test"}
-  ]
+	"categories": [{
+			"id": 1,
+			"icon": "fa fa-user",
+			"category": "Biznis industrija",
+			"subCategory": [
+				"mollit",
+				"esse",
+				"sunt"
+			]
+		},
+		{
+			"id": 2,
+			"icon": "fa fa-user",
+			"category": "Mobilni uredjaji",
+			"subCategory": [
+				"consectetur",
+				"voluptate",
+				"magna"
+			]
+		},
+		{
+			"id": 3,
+			"icon": "fa fa-user",
+			"category": "Muzicka oprema",
+			"subCategory": [
+				"dolore",
+				"eiusmod"
+			]
+		},
+		{
+			"id": 4,
+			"icon": "fa fa-user",
+			"category": "Vozila",
+			"subCategory": [
+				"magna",
+				"laborum"
+			]
+		},
+		{
+			"id": 5,
+			"icon": "fa fa-user",
+			"category": "Nakit i satovi",
+			"subCategory": [
+				"et",
+				"reprehenderit",
+				"reprehenderit2"
+			]
+		},
+		{
+			"id": 6,
+			"icon": "fa fa-user",
+			"category": "Bebe",
+			"subCategory": [
+				"incididunt",
+				"enim",
+				"commodo"
+			]
+		},
+		{
+			"id": 7,
+			"icon": "fa fa-user",
+			"category": "Literatura",
+			"subCategory": [
+				"est",
+				"enim",
+				"adipisicing"
+			]
+		},
+		{
+			"id": 8,
+			"icon": "fa fa-user",
+			"category": "Karte",
+			"subCategory": [
+				"nostrud",
+				"tempor",
+				"laborum"
+			]
+		},
+		{
+			"id": 9,
+			"icon": "fa fa-user",
+			"category": "Cvijetna industrija",
+			"subCategory": [
+				"ullamco",
+				"laborum",
+				"tempor",
+				"do"
+			]
+		},
+		{
+			"id": 10,
+			"icon": "fa fa-user",
+			"category": "Ronilacka oprema",
+			"subCategory": [
+				"et",
+				"aute",
+				"aute",
+				"incididunt",
+				"occaecat"
+			]
+		},
+		{
+			"id": 11,
+			"icon": "fa fa-user",
+			"category": "Poslovi",
+			"subCategory": [
+				"nisi",
+				"duis",
+				"reprehenderit",
+				"ut"
+			]
+		},
+		{
+			"id": 12,
+			"icon": "fa fa-user",
+			"category": "Servisi i usluge",
+			"subCategory": [
+				"proident",
+				"sint",
+				"dolore",
+				"laborum",
+				"est"
+			]
+		},
+		{
+			"id": 13,
+			"icon": "fa fa-user",
+			"category": "Kablovi",
+			"subCategory": [
+				"id",
+				"aliquip",
+				"ipsum",
+				"Lorem"
+			]
+		},
+		{
+			"id": 14,
+			"icon": "fa fa-user",
+			"category": "Moj Dom",
+			"subCategory": [
+				"anim",
+				"consectetur",
+				"exercitation"
+			]
+		},
+		{
+			"id": 15,
+			"icon": "fa fa-user",
+			"category": "Djeca",
+			"subCategory": [
+				"non",
+				"cillum",
+				"proident",
+				"consequat",
+				"dolore"
+			]
+		},
+		{
+			"id": 16,
+			"icon": "fa fa-user",
+			"category": "Kucanski uredjaji",
+			"subCategory": [
+				"et",
+				"dolor",
+				"proident",
+				"aliqua",
+				"ipsum"
+			]
+		},
+		{
+			"id": 17,
+			"icon": "fa fa-user",
+			"category": "Ljepota i zdravlje",
+			"subCategory": [
+				"tempor",
+				"est",
+				"sit"
+			]
+		},
+		{
+			"id": 18,
+			"icon": "fa fa-user",
+			"category": "Drveni uredjaji",
+			"subCategory": [
+				"ea",
+				"ad",
+				"culpa",
+				"Lorem"
+			]
+		},
+		{
+			"id": 19,
+			"icon": "fa fa-user",
+			"category": "Industrijska oprema",
+			"subCategory": [
+				"commodo",
+				"amet",
+				"qui"
+			]
+		},
+		{
+			"id": 20,
+			"icon": "fa fa-user",
+			"category": "Odjeca i obuca",
+			"subCategory": [
+				"sunt",
+				"culpa",
+				"amet",
+				"velit",
+				"fugiat"
+			]
+		},
+		{
+			"id": 21,
+			"icon": "fa fa-user",
+			"category": "Nekretnine",
+			"subCategory": [
+				"eiusmod",
+				"eu",
+				"labore",
+				"consequat",
+				"elit"
+			]
+		},
+		{
+			"id": 22,
+			"icon": "fa fa-user",
+			"category": "Djeca",
+			"subCategory": [
+				"aliquip",
+				"velit",
+				"cupidatat",
+				"duis",
+				"sit"
+			]
+		},
+		{
+			"id": 23,
+			"icon": "fa fa-user",
+			"category": "Odrasli",
+			"subCategory": [
+				"cupidatat",
+				"culpa",
+				"duis",
+				"eiusmod",
+				"mollit"
+			]
+		},
+		{
+			"id": 24,
+			"icon": "fa fa-user",
+			"category": "Sportska oprema",
+			"subCategory": [
+				"ad",
+				"consectetur",
+				"consequat",
+				"mollit",
+				"nisi",
+				"veniam"
+			]
+		}
+	]
 }
