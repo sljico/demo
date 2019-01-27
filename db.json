@@ -1,293 +1,458 @@
-{
-  "categories": [
+[
   {
     "id": 1,
     "icon": "fa fa-user",
-    "category": "Nakit i satovi",
+    "category": "Biznis industrija",
     "subCategory": [
+      "mollit",
+      "esse",
+      "sunt",
+      "exercitation",
+      "in",
       "ipsum",
-      "cupidatat",
-      "elit",
-      "aute",
-      "cillum"
+      "id",
+      "laborum",
+      "excepteur",
+      "veniam",
+      "amet",
+      "aliquip"
     ]
   },
   {
     "id": 2,
     "icon": "fa fa-user",
-    "category": "Umjetnost",
+    "category": "Mobilni uredjaji",
     "subCategory": [
-      "pariatur",
-      "aute",
-      "est",
+      "consectetur",
+      "voluptate",
+      "magna",
+      "aliqua",
       "nisi",
-      "cillum"
+      "labore",
+      "nulla",
+      "est",
+      "qui",
+      "do",
+      "aliquip",
+      "occaecat"
     ]
   },
   {
     "id": 3,
     "icon": "fa fa-user",
-    "category": "Karte",
+    "category": "Muzicka oprema",
     "subCategory": [
-      "eu",
-      "fugiat",
-      "dolor",
-      "cupidatat",
-      "dolor"
+      "dolore",
+      "eiusmod",
+      "laborum",
+      "reprehenderit",
+      "deserunt",
+      "sint",
+      "culpa",
+      "deserunt",
+      "veniam",
+      "qui",
+      "commodo",
+      "aliqua"
     ]
   },
   {
     "id": 4,
     "icon": "fa fa-user",
-    "category": "Poslovi",
+    "category": "Vozila",
     "subCategory": [
-      "id",
-      "et",
-      "dolor",
-      "sint",
-      "elit"
+      "magna",
+      "laborum",
+      "ipsum",
+      "quis",
+      "consequat",
+      "incididunt",
+      "ut",
+      "eiusmod",
+      "aliquip",
+      "aute",
+      "nostrud",
+      "duis"
     ]
   },
   {
     "id": 5,
     "icon": "fa fa-user",
-    "category": "Antikviteti",
+    "category": "Nakit i satovi",
     "subCategory": [
-      "labore",
-      "amet",
-      "voluptate",
-      "ea",
-      "ex"
+      "et",
+      "reprehenderit",
+      "reprehenderit",
+      "sint",
+      "irure",
+      "do",
+      "laboris",
+      "duis",
+      "tempor",
+      "veniam",
+      "duis",
+      "in"
     ]
   },
   {
     "id": 6,
     "icon": "fa fa-user",
-    "category": "Moj Dom",
+    "category": "Bebe",
     "subCategory": [
       "incididunt",
+      "enim",
+      "commodo",
+      "exercitation",
+      "ipsum",
       "tempor",
-      "officia",
       "quis",
-      "excepteur"
+      "sit",
+      "cupidatat",
+      "laborum",
+      "labore",
+      "fugiat"
     ]
   },
   {
     "id": 7,
     "icon": "fa fa-user",
-    "category": "Umjetnost",
+    "category": "Literatura",
     "subCategory": [
-      "veniam",
-      "occaecat",
-      "anim",
       "est",
-      "aliqua"
+      "enim",
+      "adipisicing",
+      "incididunt",
+      "adipisicing",
+      "laboris",
+      "dolore",
+      "labore",
+      "aliqua",
+      "veniam",
+      "amet",
+      "proident"
     ]
   },
   {
     "id": 8,
     "icon": "fa fa-user",
-    "category": "Servisi i usluge",
+    "category": "Karte",
     "subCategory": [
-      "commodo",
-      "labore",
-      "ea",
-      "adipisicing",
-      "dolore"
+      "nostrud",
+      "tempor",
+      "laborum",
+      "eu",
+      "nisi",
+      "velit",
+      "consectetur",
+      "amet",
+      "cupidatat",
+      "sunt",
+      "esse",
+      "cillum"
     ]
   },
   {
     "id": 9,
     "icon": "fa fa-user",
-    "category": "Biznis industrija",
+    "category": "Cvijetna industrija",
     "subCategory": [
-      "aliqua",
+      "ullamco",
       "laborum",
-      "voluptate",
-      "amet",
-      "in"
+      "tempor",
+      "do",
+      "minim",
+      "pariatur",
+      "aute",
+      "ut",
+      "anim",
+      "cupidatat",
+      "reprehenderit",
+      "cillum"
     ]
   },
   {
     "id": 10,
     "icon": "fa fa-user",
-    "category": "Literatura",
+    "category": "Ronilacka oprema",
     "subCategory": [
-      "adipisicing",
-      "voluptate",
-      "voluptate",
-      "Lorem",
-      "laborum"
+      "et",
+      "aute",
+      "aute",
+      "incididunt",
+      "occaecat",
+      "esse",
+      "exercitation",
+      "amet",
+      "esse",
+      "irure",
+      "ad",
+      "do"
     ]
   },
   {
     "id": 11,
     "icon": "fa fa-user",
-    "category": "Djeca",
+    "category": "Poslovi",
     "subCategory": [
-      "voluptate",
-      "enim",
-      "ipsum",
-      "Lorem",
-      "culpa"
+      "nisi",
+      "duis",
+      "reprehenderit",
+      "ut",
+      "aliquip",
+      "elit",
+      "excepteur",
+      "anim",
+      "elit",
+      "consectetur",
+      "culpa",
+      "veniam"
     ]
   },
   {
     "id": 12,
     "icon": "fa fa-user",
-    "category": "Mobilni uredjaji",
+    "category": "Servisi i usluge",
     "subCategory": [
-      "labore",
-      "nulla",
-      "irure",
+      "proident",
+      "sint",
+      "dolore",
       "laborum",
-      "et"
+      "est",
+      "aliqua",
+      "proident",
+      "officia",
+      "id",
+      "duis",
+      "cillum",
+      "officia"
     ]
   },
   {
     "id": 13,
     "icon": "fa fa-user",
-    "category": "Tehnika",
+    "category": "Kablovi",
     "subCategory": [
-      "eiusmod",
-      "pariatur",
-      "do",
-      "mollit",
-      "commodo"
+      "id",
+      "aliquip",
+      "ipsum",
+      "Lorem",
+      "qui",
+      "sit",
+      "dolore",
+      "qui",
+      "ea",
+      "ex",
+      "nulla",
+      "exercitation"
     ]
   },
   {
     "id": 14,
     "icon": "fa fa-user",
-    "category": "Nakit i satovi",
+    "category": "Moj Dom",
     "subCategory": [
-      "dolore",
-      "laboris",
-      "quis",
-      "consequat",
-      "consequat"
+      "anim",
+      "consectetur",
+      "exercitation",
+      "magna",
+      "exercitation",
+      "sint",
+      "nulla",
+      "anim",
+      "deserunt",
+      "commodo",
+      "sit",
+      "ea"
     ]
   },
   {
     "id": 15,
     "icon": "fa fa-user",
-    "category": "Sport",
+    "category": "Djeca",
     "subCategory": [
-      "ipsum",
-      "tempor",
-      "ad",
-      "veniam",
-      "adipisicing"
+      "non",
+      "cillum",
+      "proident",
+      "consequat",
+      "dolore",
+      "et",
+      "dolor",
+      "fugiat",
+      "labore",
+      "id",
+      "qui",
+      "tempor"
     ]
   },
   {
     "id": 16,
     "icon": "fa fa-user",
-    "category": "Nekretnine",
+    "category": "Kucanski uredjaji",
     "subCategory": [
-      "reprehenderit",
+      "et",
+      "dolor",
+      "proident",
+      "aliqua",
+      "ipsum",
+      "non",
+      "excepteur",
+      "ut",
+      "laboris",
       "eu",
-      "cillum",
-      "reprehenderit",
-      "laboris"
+      "ad",
+      "commodo"
     ]
   },
   {
     "id": 17,
     "icon": "fa fa-user",
-    "category": "Karte",
+    "category": "Ljepota i zdravlje",
     "subCategory": [
-      "pariatur",
+      "tempor",
+      "est",
+      "sit",
+      "reprehenderit",
+      "incididunt",
+      "aute",
+      "nulla",
+      "quis",
+      "laborum",
+      "consectetur",
       "amet",
-      "dolor",
-      "ut",
-      "consectetur"
+      "incididunt"
     ]
   },
   {
     "id": 18,
     "icon": "fa fa-user",
-    "category": "Nekretnine",
+    "category": "Drveni uredjaji",
     "subCategory": [
+      "ea",
+      "ad",
+      "culpa",
+      "Lorem",
+      "laboris",
       "est",
       "ad",
-      "nisi",
-      "pariatur",
-      "reprehenderit"
+      "culpa",
+      "eiusmod",
+      "excepteur",
+      "occaecat",
+      "sunt"
     ]
   },
   {
     "id": 19,
     "icon": "fa fa-user",
-    "category": "Ljepota i zdravlje",
+    "category": "Industrijska oprema",
     "subCategory": [
-      "magna",
-      "in",
-      "ullamco",
-      "fugiat",
-      "magna"
+      "commodo",
+      "amet",
+      "qui",
+      "reprehenderit",
+      "anim",
+      "occaecat",
+      "enim",
+      "dolore",
+      "nostrud",
+      "sunt",
+      "incididunt",
+      "dolore"
     ]
   },
   {
     "id": 20,
     "icon": "fa fa-user",
-    "category": "Servisi i usluge",
+    "category": "Odjeca i obuca",
     "subCategory": [
-      "consectetur",
-      "ad",
-      "exercitation",
+      "sunt",
+      "culpa",
+      "amet",
+      "velit",
+      "fugiat",
       "pariatur",
-      "adipisicing"
+      "exercitation",
+      "aliqua",
+      "excepteur",
+      "velit",
+      "id",
+      "id"
     ]
   },
   {
     "id": 21,
     "icon": "fa fa-user",
-    "category": "Servisi i usluge",
+    "category": "Nekretnine",
     "subCategory": [
-      "tempor",
-      "mollit",
-      "culpa",
-      "esse",
-      "in"
+      "eiusmod",
+      "eu",
+      "labore",
+      "consequat",
+      "elit",
+      "commodo",
+      "in",
+      "in",
+      "labore",
+      "est",
+      "Lorem",
+      "sunt"
     ]
   },
   {
     "id": 22,
     "icon": "fa fa-user",
-    "category": "Moj Dom",
+    "category": "Djeca",
     "subCategory": [
-      "ex",
+      "aliquip",
+      "velit",
+      "cupidatat",
       "duis",
-      "amet",
-      "laborum",
-      "tempor"
+      "sit",
+      "est",
+      "labore",
+      "consectetur",
+      "ullamco",
+      "est",
+      "elit",
+      "culpa"
     ]
   },
   {
     "id": 23,
     "icon": "fa fa-user",
-    "category": "Poslovi",
+    "category": "Odrasli",
     "subCategory": [
-      "ut",
       "cupidatat",
+      "culpa",
+      "duis",
+      "eiusmod",
+      "mollit",
+      "elit",
+      "elit",
+      "eiusmod",
+      "commodo",
       "sunt",
-      "est",
-      "duis"
+      "quis",
+      "et"
     ]
   },
   {
     "id": 24,
     "icon": "fa fa-user",
-    "category": "Poslovi",
+    "category": "Sportska oprema",
     "subCategory": [
-      "sint",
-      "esse",
-      "anim",
+      "ad",
+      "consectetur",
+      "consequat",
+      "mollit",
+      "nisi",
+      "veniam",
+      "Lorem",
+      "minim",
+      "ex",
+      "deserunt",
       "eiusmod",
-      "mollit"
+      "culpa"
     ]
   }
 ]
-
-}
