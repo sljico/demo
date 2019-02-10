@@ -261,7 +261,7 @@
 			]
 		}
 	],
-	articles : [
+	"articles" : [
   {
     "id": 1,
     "price": "$1,572.10",
