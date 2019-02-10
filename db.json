@@ -260,5 +260,112 @@
 				"veniam"
 			]
 		}
-	]
+	],
+	articles : [
+  {
+    "id": 1,
+    "price": "$1,572.10",
+    "picture": "http://placehold.it/32x32",
+    "name": "Iphone 5s",
+    "categories": [
+      "ipsum",
+      "commodo",
+      "commodo",
+      "tempor",
+      "labore",
+      "proident",
+      "incididunt"
+    ]
+  },
+  {
+    "id": 2,
+    "price": "$2,357.79",
+    "picture": "http://placehold.it/32x32",
+    "name": "BMW Q6",
+    "categories": [
+      "sint",
+      "Lorem",
+      "eu",
+      "sint",
+      "exercitation",
+      "ipsum",
+      "minim"
+    ]
+  },
+  {
+    "id": 3,
+    "price": "$3,706.25",
+    "picture": "http://placehold.it/32x32",
+    "name": "Samsung J7",
+    "categories": [
+      "nulla",
+      "consectetur",
+      "laboris",
+      "incididunt",
+      "quis",
+      "sint",
+      "culpa"
+    ]
+  },
+  {
+    "id": 4,
+    "price": "$1,311.27",
+    "picture": "http://placehold.it/32x32",
+    "name": "Samsung J9",
+    "categories": [
+      "aliquip",
+      "eiusmod",
+      "labore",
+      "do",
+      "amet",
+      "duis",
+      "cillum"
+    ]
+  },
+  {
+    "id": 5,
+    "price": "$2,439.62",
+    "picture": "http://placehold.it/32x32",
+    "name": "iPhone Xs 21 gb",
+    "categories": [
+      "ex",
+      "ut",
+      "proident",
+      "tempor",
+      "nostrud",
+      "aute",
+      "dolore"
+    ]
+  },
+  {
+    "id": 6,
+    "price": "$2,512.04",
+    "picture": "http://placehold.it/32x32",
+    "name": "Mercedes A4",
+    "categories": [
+      "deserunt",
+      "laboris",
+      "anim",
+      "labore",
+      "ad",
+      "veniam",
+      "irure"
+    ]
+  },
+  {
+    "id": 7,
+    "price": "$1,835.96",
+    "picture": "http://placehold.it/32x32",
+    "name": "Golf GTI",
+    "categories": [
+      "ipsum",
+      "dolore",
+      "consequat",
+      "id",
+      "occaecat",
+      "nisi",
+      "pariatur"
+    ]
+  }
+]
 }
