@@ -1,371 +1,103 @@
-{
-	"categories": [{
-			"id": 1,
-			"icon": "fa fa-user",
-			"category": "Biznis industrija",
-			"subCategory": [
-				"mollit",
-				"esse",
-				"sunt"
-			]
-		},
-		{
-			"id": 2,
-			"icon": "fa fa-user",
-			"category": "Mobilni uredjaji",
-			"subCategory": [
-				"consectetur",
-				"voluptate",
-				"magna"
-			]
-		},
-		{
-			"id": 3,
-			"icon": "fa fa-user",
-			"category": "Muzicka oprema",
-			"subCategory": [
-				"dolore",
-				"eiusmod"
-			]
-		},
-		{
-			"id": 4,
-			"icon": "fa fa-user",
-			"category": "Vozila",
-			"subCategory": [
-				"magna",
-				"laborum"
-			]
-		},
-		{
-			"id": 5,
-			"icon": "fa fa-user",
-			"category": "Nakit i satovi",
-			"subCategory": [
-				"et",
-				"reprehenderit",
-				"reprehenderit2"
-			]
-		},
-		{
-			"id": 6,
-			"icon": "fa fa-user",
-			"category": "Bebe",
-			"subCategory": [
-				"incididunt",
-				"enim",
-				"commodo"
-			]
-		},
-		{
-			"id": 7,
-			"icon": "fa fa-user",
-			"category": "Literatura",
-			"subCategory": [
-				"est",
-				"enim",
-				"adipisicing"
-			]
-		},
-		{
-			"id": 8,
-			"icon": "fa fa-user",
-			"category": "Karte",
-			"subCategory": [
-				"nostrud",
-				"tempor",
-				"laborum"
-			]
-		},
-		{
-			"id": 9,
-			"icon": "fa fa-user",
-			"category": "Cvijetna industrija",
-			"subCategory": [
-				"ullamco",
-				"laborum",
-				"tempor",
-				"do"
-			]
-		},
-		{
-			"id": 10,
-			"icon": "fa fa-user",
-			"category": "Ronilacka oprema",
-			"subCategory": [
-				"et",
-				"aute",
-				"aute2",
-				"incididunt",
-				"occaecat"
-			]
-		},
-		{
-			"id": 11,
-			"icon": "fa fa-user",
-			"category": "Poslovi",
-			"subCategory": [
-				"nisi",
-				"duis",
-				"reprehenderit",
-				"ut"
-			]
-		},
-		{
-			"id": 12,
-			"icon": "fa fa-user",
-			"category": "Servisi i usluge",
-			"subCategory": [
-				"proident",
-				"sint",
-				"dolore",
-				"laborum",
-				"est"
-			]
-		},
-		{
-			"id": 13,
-			"icon": "fa fa-user",
-			"category": "Kablovi",
-			"subCategory": [
-				"id",
-				"aliquip",
-				"ipsum",
-				"Lorem"
-			]
-		},
-		{
-			"id": 14,
-			"icon": "fa fa-user",
-			"category": "Moj Dom",
-			"subCategory": [
-				"anim",
-				"consectetur",
-				"exercitation"
-			]
-		},
-		{
-			"id": 15,
-			"icon": "fa fa-user",
-			"category": "Djeca",
-			"subCategory": [
-				"non",
-				"cillum",
-				"proident",
-				"consequat",
-				"dolore"
-			]
-		},
-		{
-			"id": 16,
-			"icon": "fa fa-user",
-			"category": "Kucanski uredjaji",
-			"subCategory": [
-				"et",
-				"dolor",
-				"proident",
-				"aliqua",
-				"ipsum"
-			]
-		},
-		{
-			"id": 17,
-			"icon": "fa fa-user",
-			"category": "Ljepota i zdravlje",
-			"subCategory": [
-				"tempor",
-				"est",
-				"sit"
-			]
-		},
-		{
-			"id": 18,
-			"icon": "fa fa-user",
-			"category": "Drveni uredjaji",
-			"subCategory": [
-				"ea",
-				"ad",
-				"culpa",
-				"Lorem"
-			]
-		},
-		{
-			"id": 19,
-			"icon": "fa fa-user",
-			"category": "Industrijska oprema",
-			"subCategory": [
-				"commodo",
-				"amet",
-				"qui"
-			]
-		},
-		{
-			"id": 20,
-			"icon": "fa fa-user",
-			"category": "Odjeca i obuca",
-			"subCategory": [
-				"sunt",
-				"culpa",
-				"amet",
-				"velit",
-				"fugiat"
-			]
-		},
-		{
-			"id": 21,
-			"icon": "fa fa-user",
-			"category": "Nekretnine",
-			"subCategory": [
-				"eiusmod",
-				"eu",
-				"labore",
-				"consequat",
-				"elit"
-			]
-		},
-		{
-			"id": 22,
-			"icon": "fa fa-user",
-			"category": "Djeca",
-			"subCategory": [
-				"aliquip",
-				"velit",
-				"cupidatat",
-				"duis",
-				"sit"
-			]
-		},
-		{
-			"id": 23,
-			"icon": "fa fa-user",
-			"category": "Odrasli",
-			"subCategory": [
-				"cupidatat",
-				"culpa",
-				"duis",
-				"eiusmod",
-				"mollit"
-			]
-		},
-		{
-			"id": 24,
-			"icon": "fa fa-user",
-			"category": "Sportska oprema",
-			"subCategory": [
-				"ad",
-				"consectetur",
-				"consequat",
-				"mollit",
-				"nisi",
-				"veniam"
-			]
-		}
-	],
-	"articles" : [
-  {
-    "id": 1,
-    "price": "$1,572.10",
-    "picture": "http://placehold.it/32x32",
-    "name": "Iphone 5s",
-    "categories": [
-      "ipsum",
-      "commodo",
-      "commodo",
-      "tempor",
-      "labore",
-      "proident",
-      "incididunt"
-    ]
-  },
-  {
-    "id": 2,
-    "price": "$2,357.79",
-    "picture": "http://placehold.it/32x32",
-    "name": "BMW Q6",
-    "categories": [
-      "sint",
-      "Lorem",
-      "eu",
-      "sint",
-      "exercitation",
-      "ipsum",
-      "minim"
-    ]
-  },
-  {
-    "id": 3,
-    "price": "$3,706.25",
-    "picture": "http://placehold.it/32x32",
-    "name": "Samsung J7",
-    "categories": [
-      "nulla",
-      "consectetur",
-      "laboris",
-      "incididunt",
-      "quis",
-      "sint",
-      "culpa"
-    ]
-  },
-  {
-    "id": 4,
-    "price": "$1,311.27",
-    "picture": "http://placehold.it/32x32",
-    "name": "Samsung J9",
-    "categories": [
-      "aliquip",
-      "eiusmod",
-      "labore",
-      "do",
-      "amet",
-      "duis",
-      "cillum"
-    ]
-  },
-  {
-    "id": 5,
-    "price": "$2,439.62",
-    "picture": "http://placehold.it/32x32",
-    "name": "iPhone Xs 21 gb",
-    "categories": [
-      "ex",
-      "ut",
-      "proident",
-      "tempor",
-      "nostrud",
-      "aute",
-      "dolore"
-    ]
-  },
-  {
-    "id": 6,
-    "price": "$2,512.04",
-    "picture": "http://placehold.it/32x32",
-    "name": "Mercedes A4",
-    "categories": [
-      "deserunt",
-      "laboris",
-      "anim",
-      "labore",
-      "ad",
-      "veniam",
-      "irure"
-    ]
-  },
-  {
-    "id": 7,
-    "price": "$1,835.96",
-    "picture": "http://placehold.it/32x32",
-    "name": "Golf GTI",
-    "categories": [
-      "ipsum",
-      "dolore",
-      "consequat",
-      "id",
-      "occaecat",
-      "nisi",
-      "pariatur"
-    ]
-  }
+[
+    {
+        "id": 1,
+        "formName": "Dynamic Form",
+        "fields": [
+            {
+                "id": 1,
+                "fieldType": "TextInput",
+                "question": "First Name?"
+            },
+            {
+                "id": 2,
+                "fieldType": "SelectList",
+                "question": "Gender ?",
+                "options": [
+                    {
+                        "optionLabel": "Male",
+                        "optionValue": "male"
+                    },
+                    {
+                        "optionLabel": "Female",
+                        "optionValue": "female"
+                    }
+                ],
+                "conditional": {
+                    "male": [
+                        {
+                            "id": 3,
+                            "fieldType": "TextInput",
+                            "question": "Additional Information for Male"
+                        }
+                    ],
+                    "female": [
+                        {
+                            "id": 4,
+                            "fieldType": "DatetimePicker",
+                            "question": "Date of Birth"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "fieldType": "DatetimePicker",
+                "question": "Date of birth"
+            },
+            {
+                "id": 4,
+                "fieldType": "CheckboxInput",
+                "question": "Select your hobbies",
+                "options": [
+                    {
+                        "optionLabel": "Reading",
+                        "optionValue": "reading"
+                    },
+                    {
+                        "optionLabel": "Travelling",
+                        "optionValue": "travelling"
+                    },
+                    {
+                        "optionLabel": "Gaming",
+                        "optionValue": "gaming"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "fieldType": "RadioInput",
+                "question": "Select your age group",
+                "options": [
+                    {
+                        "optionLabel": "Under 18",
+                        "optionValue": "under_18"
+                    },
+                    {
+                        "optionLabel": "18-30",
+                        "optionValue": "18_30"
+                    },
+                    {
+                        "optionLabel": "30-50",
+                        "optionValue": "30_50"
+                    }
+                ],
+                "conditional": {
+                    "under_18": [
+                        {
+                            "id": 6,
+                            "fieldType": "TextInput",
+                            "question": "Guardian's Name"
+                        }
+                    ],
+                    "18_30": [
+                        {
+                            "id": 7,
+                            "fieldType": "TextInput",
+                            "question": "College Name"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
 ]
-}
